@@ -11,3 +11,7 @@ variable "provider_token" {
 provider "fakewebservices" {
   token = var.provider_token
 }
+
+provider "fakewebservices2" {
+  token = var.provider_token
+}
