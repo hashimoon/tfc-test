@@ -12,7 +12,3 @@ provider "fakewebservices" {
   token = var.provider_token
 }
 
-provider "fakewebservices_2" {
-  token = var.provider_token
-}
-
